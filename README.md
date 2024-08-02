@@ -1,6 +1,5 @@
 # Hi, there. I'm Taiki Ishikawa 👋
 Welcome to my GitHub profile!
-![](./profile-3d-contrib/profile-season.svg)
 
 ## My favorite language and tools
 ### Language
